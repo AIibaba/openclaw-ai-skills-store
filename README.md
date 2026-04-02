@@ -27,24 +27,27 @@ A collection of **production-ready AI Agent skills** for the OpenClaw framework.
 | 01 | Auto-Monetization | Discover and execute AI monetization strategies |
 | 02 | Client Prospector | Find and qualify potential clients automatically |
 | 03 | Viral Content Generator | Create viral content for TikTok, Twitter, YouTube |
-| 04 | SEO Content Factory | Mass-produce SEO-optimized articles |
-| 05 | Pricing Strategist | Optimize pricing with data-driven strategies |
-| 06 | Customer Service Bot | Handle customer inquiries 24/7 |
+| 04 | SEO Content Factory | Mass produce SEO-optimized articles |
+| 05 | Pricing Strategist | Data-driven pricing optimization |
+| 06 | Customer Service Bot | 7x24 automated customer support |
 | 07 | Competitor Analyzer | Deep competitive intelligence analysis |
-| 08 | Product Copywriter | Write high-converting product copy |
-| 09 | Course Creator | Generate complete online courses |
+| 08 | Product Copywriter | High-converting product copy |
+| 09 | Course Creator | Auto-generate complete online courses |
 | 10 | Contract Generator | Auto-generate professional contracts |
-| 11 | Data Analyst | Analyze data and generate business insights |
-| 12 | Personal Brand Builder | Build your personal brand systematically |
+| 11 | Data Analyst | Data analysis and business insights |
+| 12 | Personal Brand Builder | Systematically build personal brand |
 | 13 | Resume Optimizer | ATS-friendly resume optimization |
-| 14 | Newsletter Monetizer | Build and monetize email newsletters |
-| 15 | Workflow Designer | Design automation workflows for Zapier/Make/n8n |
+| 14 | Newsletter Monetizer | Build and monetize newsletters |
+| 15 | Workflow Designer | Design automation workflows |
 | 16 | Freelance PM | Manage freelance projects and clients |
-| 17 | E-commerce Selector | Data-driven product research and selection |
+| 17 | E-commerce Selector | Data-driven product selection |
 
-### Buy on Gumroad
+### How to Use
 
-All skills at [lucasxu.gumroad.com](https://lucasxu.gumroad.com) - $3 each.
+1. Download or clone this repo
+2. Copy the desired skill folder to your OpenClaw skills directory
+3. Each folder contains \`SKILL-zh.md\` (Chinese) and \`SKILL-en.md\` (English)
+4. The AI agent will automatically load and use the skill
 
 ---
 
@@ -84,9 +87,12 @@ All skills at [lucasxu.gumroad.com](https://lucasxu.gumroad.com) - $3 each.
 | 16 | 自由职业项目管理 | 管理自由职业项目和客户 |
 | 17 | 电商选品专家 | 数据驱动的电商选品 |
 
-### Gumroad购买
+### 使用方法
 
-所有技能在 [lucasxu.gumroad.com](https://lucasxu.gumroad.com) 有售 - 每个$3。
+1. 下载或克隆本仓库
+2. 将所需技能文件夹复制到你的 OpenClaw 技能目录
+3. 每个文件夹包含 \`SKILL-zh.md\`（中文版）和 \`SKILL-en.md\`（英文版）
+4. AI Agent 会自动加载并使用技能
 
 ---
 
@@ -96,4 +102,4 @@ MIT License
 
 ## Keywords
 
-OpenClaw, AI Agent, AI Skills, Make Money with AI, AI Automation, SEO, Content Generation, E-commerce, Freelance, Data Analysis, AI赚钱, AI自动化, AI技能, OpenClaw技能, AI Agent技能包, 自动变现, SEO优化, 电商选品, 数据分析, 自由职业
+OpenClaw, AI Agent, AI Skills, Make Money with AI, AI Automation, SEO, Content Generation, E-commerce, Freelance, Data Analysis, AI赚钱, AI自动化, AI技能, OpenClaw技能, AI Agent技能包, 自动营销, SEO优化, 电商选品, 数据分析, 自由职业
